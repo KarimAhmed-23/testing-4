@@ -473,8 +473,8 @@ body{
 }
 
 
-.banner-1-img{max-width: 500px;max-height: 300px;overflow: hidden;position: relative;right: -20px;width: auto !important;
-height: auto !important}
+.banner-1-img{max-width: 500px;max-height: 300px;position: relative;right: -20px;width: inherit!important;
+height: inherit!important}
 
 @media (max-width:420px){.banner-1-img{max-height: 250px}}
 
